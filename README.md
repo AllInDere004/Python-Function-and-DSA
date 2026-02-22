@@ -3,3 +3,7 @@
 Python Functions
 <br>
 Memory Management by Python
+<br>
+Filter Function
+<br>
+Map Function
