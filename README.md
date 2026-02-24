@@ -7,3 +7,7 @@ Memory Management by Python
 Filter Function
 <br>
 Map Function
+<br>
+Strings
+<br>
+Set function
