@@ -11,3 +11,5 @@ Map Function
 Strings
 <br>
 Set function
+<br>
+Memory Management
