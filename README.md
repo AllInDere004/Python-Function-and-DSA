@@ -13,3 +13,7 @@ Strings
 Set function
 <br>
 Memory Management
+<br>
+Lists
+<br>
+Sets
